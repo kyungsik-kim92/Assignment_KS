@@ -2,7 +2,7 @@ package com.example.assignment_ks.data.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.application.booksearchapp.data.repository.BookSearchRepository
+import com.example.assignment_ks.data.repository.BookSearchRepository
 
 class BookSearchViewModelProviderFactory(
     private val bookSearchRepository: BookSearchRepository

@@ -4,8 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.application.booksearchapp.data.repository.BookSearchRepository
-import com.application.booksearchapp.data.repository.BookSearchRepositoryImpl
+import com.example.assignment_ks.data.repository.BookSearchRepository
 import com.example.assignment_ks.data.model.SearchResponse
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

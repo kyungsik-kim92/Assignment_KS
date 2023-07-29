@@ -1,4 +1,4 @@
-package com.application.booksearchapp.data.repository
+package com.example.assignment_ks.data.repository
 
 import com.example.assignment_ks.data.model.SearchResponse
 import retrofit2.Response
